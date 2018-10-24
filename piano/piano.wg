@@ -1,0 +1,12 @@
+tempo132
+type=piano
+c=d
+
+def
+
+A = c1# d1+a
+B = 2b1+c1 $3b2 16.c2#+a2+b2 2.-
+
+end
+
+B A A b

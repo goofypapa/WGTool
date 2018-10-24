@@ -1,0 +1,12 @@
+tempo132
+type=djembe
+c=d2
+
+def
+
+A = B T S
+B = B B - T T S
+
+end
+
+B A A b
